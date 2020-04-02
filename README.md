@@ -12,3 +12,6 @@ make -j8
 ```
 copy .so module to any of the path : /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
 
+
+# To run the app
+java -jar CameraAppOcv.jar
